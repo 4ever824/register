@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/4ever824/register",
+
+  "owner": {
+    "username": "4ever824",
+    "email": "realmail666@proton.me"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "seaside", 
+       "value": "A"
+     }
+  },
+
+  "proxied": true
+}
